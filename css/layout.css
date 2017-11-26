@@ -25,16 +25,19 @@
 /* Posititoning Classes */
 
 
-[class*= "col-1"] {
+.col-1 {
   float:left;
   width: 32%;
 }
 
-[class*= "col-2"] {
+.col-2 {
   float:left;
   width:66%;
 }
 
+.col-3{
+  
+}
 [class*= "col-"] {
   margin-left: 2%;
 }
