@@ -34,6 +34,11 @@
   width: 66%;
 }
 
+[class*="col-3"] {
+  float: right;;
+  width: 32%;
+}
+
 [class*="col-"] {
   margin-left: 2%;
 }
