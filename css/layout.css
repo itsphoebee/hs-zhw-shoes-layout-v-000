@@ -45,3 +45,7 @@
 .first {
   margin-left: 0%;
 }
+
+figure {
+  margin-top: 10px;
+}
